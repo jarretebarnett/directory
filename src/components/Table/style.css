@@ -1,0 +1,9 @@
+.table {
+    text-align: center;
+    align-self: center;
+    display: inline-table;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-flow: column;
+    align-items: center;
+}

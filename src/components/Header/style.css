@@ -1,0 +1,11 @@
+.header {
+    background-color: rgb(52, 180, 40);
+    text-align: center;
+    color: white;
+    /* border-bottom: 3px solid red; */
+    height: 150px;
+}
+
+h1{
+    padding-top: 20px;
+}
